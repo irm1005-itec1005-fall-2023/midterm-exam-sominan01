@@ -34,4 +34,32 @@ html {
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  padding:10rem;
+  margin: 5rem;
+  background-color: #ede0d4;
+}
+
+.paragraph {
+  background-color: #e6ccb2;
+  border-radius: 2rem;
+}
+
+img {
+  border-radius: 3rem 3rem 0 0;
+}
+
+h1 {
+  font-size: smaller;
+}
+
+h3 {
+  font-size: 3rem;
+}
+.btn{
+  margin: 5rem;
+  background-color: #3e38bf;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 3rem;
+  text-decoration: none;
 }
